@@ -57,6 +57,17 @@
 <img src="https://www.svgviewer.dev/static-svgs/14069/insomnia.svg" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" title="postman" alt="postman" width="40" height="40"/>&nbsp;
 
+---
+
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akosumov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+    
+
+
+    
+
+
 
 
 <!--
