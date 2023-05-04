@@ -23,7 +23,7 @@
   ### :man_technologist: About Me : 
   
  I am a novice Frontend developer from Russia. My journey in it started at the end of 2021 where I started learning HTML and CSS as a hobby <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I developed my first projects and in February 2023, I started learning JS. My JS learning path was very difficult, since I never encountered programming languages and I had a real zero level. But during my studies I didn't give up and kept on learning, watching courses somewhere and practicing on my own. In my repository there are my projects, which shows my skills
-  - :telescope: I'm working as a Software Engineer and contribute to frontend to create web applications.
+  - :telescope: I'm working as a Software Engineer and contribute to frontend to create web applications
 
   - :seedling: I've been studying Frontend for about 1.5 years
 
